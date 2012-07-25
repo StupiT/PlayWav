@@ -1,2 +1,2 @@
-PlayWav
+Useless program written in MASM.
 =======
